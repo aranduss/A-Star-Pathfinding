@@ -1,5 +1,5 @@
 # A-Star-Pathfinding
-A python A-Star path finding algorithm implementation that converts the given data set into custom node objects before path finding.
+A python A-Star path finding algorithm implementation that converts the given data set into custom node objects before pathfinding.
 
 ## About
 This python project was created to develop working proof of concepts for two things:
